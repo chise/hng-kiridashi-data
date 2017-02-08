@@ -1,3 +1,4 @@
 # manifest	= https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/manifest.json
 # osid	sid	ln	cn	x	y	w	h	char	hng-gid	flg	remarks	img	mx	my	canvas
 13	13	0	29	3096	1874	73	74	涅		0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f1/info.json	3336	2385	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f1
+14	14	0	30	3089	1963	93	76	槃		0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f1/info.json	3336	2385	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f1

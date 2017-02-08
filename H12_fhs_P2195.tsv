@@ -1,3 +1,5 @@
+# manifest	= https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/manifest.json
 # HNG code	= H12
 # HNG source ID	= fhs
 # osid	sid	page	ln	cn	x	y	w	h	char	hng-gid	flg	remarks	img	mx	my	canvas
+13	13	f1	0	29	3096	1874	73	74	涅		0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f1/info.json	3336	2385	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f1

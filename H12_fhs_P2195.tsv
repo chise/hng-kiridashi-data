@@ -93,7 +93,7 @@
 106	106	9	28	2071	1997	96	75	滅	0449	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f1/info.json	3336	2385	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f1
 107	107	10	12	1957	630	95	92	度	0349	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f1/info.json	3336	2385	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f1
 108	108	10	13	1966	729	88	71	之	0219	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f1/info.json	3336	2385	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f1
-109	109	10	14	1971	803	83	88	處	0623a/0623b	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f1/info.json	3336	2385	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f1
+109	109	10	14	1971	803	83	88	處	0623b	2		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f1/info.json	3336	2385	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f1
 110	110	10	15	1967	900	81	79	當	0477	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f1/info.json	3336	2385	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f1
 111	111	10	16	1951	984	101	91	廣	0351	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f1/info.json	3336	2385	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f1
 112	112	10	17	1956	1073	109	80	説	0558	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f1/info.json	3336	2385	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f1
@@ -753,7 +753,7 @@
 800	800	41	22	682	1129	76	65	所	0620	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
 801	801	41	23	677	1207	79	67	住	0236	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
 802	802	41	24	677	1291	91	65	之	0219	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
-803	803	41	25	676	1364	86	85	處	0623a/0623b	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
+803	803	41	25	676	1364	86	85	處	0623a	1		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
 804	804	41	26	664	1459	85	78	若	0532	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
 805	805	41	27	676	1547	65	76	於	0396	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
 806	806	41	28	682	1635	75	78	園	0031	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
@@ -798,7 +798,7 @@
 845	845	22	16	353	608	92	85	當	0477	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
 846	846	22	17	340	695	107	67	知	0491	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
 847	847	22	18	345	766	97	90	是	0402	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
-848	848	22	19	350	859	102	89	處	0623a/0623b	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
+848	848	22	19	350	859	102	89	處	0623a	1		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
 849	849	22	20	355	955	84	88	即	0277	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
 850	850	22	21	343	1036	105	87	是	0402	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
 851	851	22	22	348	1115	94	95	道	0581	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f2/info.json	3208	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f2
@@ -2414,7 +2414,7 @@
 2461	2461	6	19	2337	728	87	62	經	0507	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f6/info.json	3328	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f6
 2462	2462	6	20	2328	785	95	74	行	0547	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f6/info.json	3328	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f6
 2463	2463	6	21	2329	851	106	74	彼	0355	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f6/info.json	3328	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f6
-2464	2464	6	22	2342	915	88	82	處	0623a/0623b	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f6/info.json	3328	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f6
+2464	2464	6	22	2342	915	88	82	處	0623a	1		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f6/info.json	3328	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f6
 2465	2465	6	24	2336	1032	85	76	即	0277	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f6/info.json	3328	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f6
 2466	2466	6	25	2343	1101	84	79	時	0404	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f6/info.json	3328	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f6
 2467	2467	6	26	2339	1173	91	81	得	0358	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f6/info.json	3328	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f6
@@ -3906,7 +3906,7 @@
 3953	3953	11	12	1771	303	79	81	圍	0302	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f9/info.json	3340	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f9
 3954	3954	11	13	1766	381	95	78	繞	0510	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f9/info.json	3340	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f9
 3955	3955	11	14	1766	471	81	66	住	0236	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f9/info.json	3340	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f9
-3956	3956	11	15	1765	545	91	84	處	0623a/0623b	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f9/info.json	3340	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f9
+3956	3956	11	15	1765	545	91	84	處	0623a	1		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f9/info.json	3340	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f9
 3957	3957	11	16	1769	632	76	76	生	0472	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f9/info.json	3340	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f9
 3958	3958	11	17	1758	715	93	91	蓮	0541	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f9/info.json	3340	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f9
 3959	3959	11	18	1752	804	97	91	華	0537	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/f9/info.json	3340	2050	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83018108/canvas/f9

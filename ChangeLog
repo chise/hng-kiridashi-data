@@ -1,5 +1,11 @@
 2020-02-04  MORIOKA Tomohiko  <tomo.git@chise.org>
 
+	* H12_fhs_P2195.tsv: According to
+	http://www.chise.org/est/view/hng-card/rep.id=12-620,
+	hng-fhs=620a/b were unified into hng-fhs=620.
+
+2020-02-04  MORIOKA Tomohiko  <tomo.git@chise.org>
+
 	* H12_fhs_P2195.tsv: Add some hng-gid data by matching the `char'
 	column with the `異体字' column of
 	hng-data/12_妙法蓮華經卷六（P.2195）/char-data.csv.

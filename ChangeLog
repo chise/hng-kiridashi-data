@@ -1,5 +1,13 @@
 2020-02-04  MORIOKA Tomohiko  <tomo.git@chise.org>
 
+	* H12_fhs_P2195.tsv (10-14; (1971,803)+83+88): Select 0623b.
+	(41-25: (676,1364)+86+85): Select 0623a.
+	(22-19: (350,859)+102+89): Ditto.
+	(6-22: (2342,915)+88+820): Ditto.
+	(11-15: (1765,545)+91+84): Ditto.
+
+2020-02-04  MORIOKA Tomohiko  <tomo.git@chise.org>
+
 	* H12_fhs_P2195.tsv: According to
 	http://www.chise.org/est/view/hng-card/rep.id=12-620,
 	hng-fhs=620a/b were unified into hng-fhs=620.

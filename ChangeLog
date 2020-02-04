@@ -1,3 +1,15 @@
+2020-02-04  MORIOKA Tomohiko  <tomo.git@chise.org>
+
+	* H12_fhs_P2195.tsv: Add some hng-gid data by matching the `char'
+	column with the `異体字' column of
+	hng-data/12_妙法蓮華經卷六（P.2195）/char-data.csv.
+
+2020-02-04  MORIOKA Tomohiko  <tomo.git@chise.org>
+
+	* H12_fhs_P2195.tsv: Add some hng-gid data by matching the `char'
+	column with the `文字' column of
+	hng-data/12_妙法蓮華經卷六（P.2195）/char-data.csv.
+
 2017-04-25  Masanao Saiki  <saiki@hng-data.org>
 
 	* (3-27: (511,1704)+50+41): add [via Kiridashi-kun]

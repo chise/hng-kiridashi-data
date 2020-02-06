@@ -8,6 +8,36 @@ source of the HNG dataset.
 
 ## Format
 
+Each data file consists of a header and a body.
+
+### Header
+
+The header consists of comment lines starting with #, and consists of
+a metadata section and a column description section.
+
+The metadata section is described in the following format:
+
+	#<SPACE><item name><TAB>=<SPACE><value>
+
+Currently, *manifest*, *HNG code* and *HNG source ID* are defined as
+<item name>.
+
+- *# manifest*: Manifest URI of IIIF Presentation API
+- *HNG code*: HNG folder code of the source
+- *HNG source ID*: HNG ID of the source
+
+Column description section is the following format:
+
+	# osid	sid	ln	cn	x	y	w	h	char	hng-gid	flg	remarks	img	mx	my	canvas
+
+It describes the name of fields.
+
+
+### Body
+
+The format of body is TSV (tab-separated values).  Each column is as
+follows.
+
 |No.|Field  |Description                                       |
 ----|-------|---------------------------------------------------
 |1  |osid   |Original SID in Kiridashi-kun                     |

@@ -28,7 +28,7 @@ defined as <item name>.
 
 Column description section is the following format:
 
-	# osid	sid	ln	cn	x	y	w	h	char	hng-gid	flg	remarks	img	mx	my	canvas
+	# osid	sid	page	ln	cn	x	y	w	h	char	hng-gid	flg	remarks	img	mx	my	canvas
 
 It describes the name of fields.
 
@@ -42,20 +42,21 @@ follows.
 ----|-------|---------------------------------------------------
 |1  |osid   |Original SID in Kiridashi-kun                     |
 |2  |sid    |SID in Kiridashi-kun                              |  
-|3  |ln     |Line Number within a page                         |
-|4  |cn     |Character Number within a line                    |
-|5  |x      |X coordinate of rectangle where glyph-image exists|
-|6  |y      |Y coordinate of rectangle where glyph-image exists|
-|7  |w      |Width of rectangle where glyph-image exists       |
-|8  |h      |Height of rectangle where glyph-image exists      |
-|9  |char   |Character corresponding with glyph-image          |
-|10 |hng-gid|HNG glyph code of the source                      |
-|11 |flg    |Glyph Variant Code; 0=not specified; 1=a, 2=b, ...|
-|12 |remarks|Note                                              |
-|13 |img    |Image Information Request URI of IIIF Image API   |
-|14 |mx     |Image width                                       |
-|15 |my     |Image height                                      |
-|16 |canvas |Canvas URI of IIIF Presentation API               |
+|3  |page   |Page ID                                           |
+|4  |ln     |Line Number within a page                         |
+|5  |cn     |Character Number within a line                    |
+|6  |x      |X coordinate of rectangle where glyph-image exists|
+|7  |y      |Y coordinate of rectangle where glyph-image exists|
+|8  |w      |Width of rectangle where glyph-image exists       |
+|9  |h      |Height of rectangle where glyph-image exists      |
+|10  |char   |Character corresponding with glyph-image          |
+|11 |hng-gid|HNG glyph code of the source                      |
+|12 |flg    |Glyph Variant Code; 0=not specified; 1=a, 2=b, ...|
+|13 |remarks|Note                                              |
+|14 |img    |Image Information Request URI of IIIF Image API   |
+|15 |mx     |Image width                                       |
+|16 |my     |Image height                                      |
+|17 |canvas |Canvas URI of IIIF Presentation API               |
 
 
 ## License

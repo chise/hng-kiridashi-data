@@ -31,12 +31,12 @@ source of the HNG dataset.
 ## License
 
 This package is free software (open data); you can redistribute it
-and/or modify it under the terms of [Creative Commons
-Attribution-ShareAlike 4.0 International (CC BY-SA
-4.0)](http://creativecommons.org/licenses/by-sa/4.0/) [![CC BY-SA
-4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)][http://creativecommons.org/licenses/by-sa/4.0/]
-or the GNU General Public License as published by the Free Software
-Foundation; either version 2, or (at your option) any later version.
+and/or modify it under the terms of [![CC BY-SA
+4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) Creative
+Commons Attribution-ShareAlike 4.0 International (CC BY-SA
+4.0)](http://creativecommons.org/licenses/by-sa/4.0/) or the GNU
+General Public License as published by the Free Software Foundation;
+either version 2, or (at your option) any later version.
 
 This package is distributed in the hope that it will be useful, but
 WITHOUT ANY WARRANTY; without even the implied warranty of

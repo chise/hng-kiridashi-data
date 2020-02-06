@@ -1,5 +1,9 @@
 2020-02-06  MORIOKA Tomohiko  <tomo.git@chise.org>
 
+	* H12_fhs_P2195.tsv: Add HNG code and HNG source ID.
+
+2020-02-06  MORIOKA Tomohiko  <tomo.git@chise.org>
+
 	* README.md (Format): New section.
 	(License): New section.
 

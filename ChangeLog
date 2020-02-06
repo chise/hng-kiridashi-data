@@ -1,5 +1,7 @@
 2020-02-06  MORIOKA Tomohiko  <tomo.git@chise.org>
 
+	* README.md (Format): Add descriptions about header and body.
+
 	* H12_fhs_P2195.tsv: Add HNG code and HNG source ID.
 
 2020-02-06  MORIOKA Tomohiko  <tomo.git@chise.org>

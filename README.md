@@ -19,12 +19,12 @@ The metadata section is described in the following format:
 
 	#<SPACE><item name><TAB>=<SPACE><value>
 
-Currently, *manifest*, *HNG code* and *HNG source ID* are defined as
-<item name>.
+Currently, **manifest**, **HNG code** and **HNG source ID** are
+defined as <item name>.
 
-- *# manifest*: Manifest URI of IIIF Presentation API
-- *HNG code*: HNG folder code of the source
-- *HNG source ID*: HNG ID of the source
+- **manifest**: Manifest URI of IIIF Presentation API
+- **HNG code**: HNG folder code of the source
+- **HNG source ID**: HNG ID of the source
 
 Column description section is the following format:
 

@@ -1,3 +1,10 @@
+2020-02-05  MORIOKA Tomohiko  <tomo.git@chise.org>
+
+	* H12_fhs_P2195.tsv ([386] f1-27-16: (255,892)+85+95 (如)):
+	Deleted.
+	([978] f3-4-13: (2557,283)+89+76 (累)): Deleted.
+	([2368] f6-0-20: (2958,883)+107+98 (最)): Deleted.
+
 2020-02-04  MORIOKA Tomohiko  <tomo.git@chise.org>
 
 	* H12_fhs_P2195.tsv (10-14; (1971,803)+83+88): Select 0623b.

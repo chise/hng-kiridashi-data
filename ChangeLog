@@ -1,3 +1,9 @@
+2020-02-07  MORIOKA Tomohiko  <tomo.git@chise.org>
+
+	* H08_myz_P2334.tsv ([50] f2/0-12: (2966,395)+104+67 (妙)):
+	Deleted.
+	([23974] f4/3-8: (2898,1055)+123+77 (所)): Deleted.
+
 2020-02-06  MORIOKA Tomohiko  <tomo.git@chise.org>
 
 	* H08_myz_P2334.tsv: Add some hng-gid data by matching the `char'

@@ -2,7 +2,6 @@
 # HNG code	= H08
 # HNG source ID	= myz
 # osid	sid	page	ln	cn	x	y	w	h	char	hng-gid	flg	remarks	img	mx	my	canvas
-50	50	f2	0	12	2966	395	104	67	妙	0300	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/f2/info.json	3340	2150	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/canvas/f2
 23166	23166	f2	0	0	2959	393	113	77	妙	0300	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/f2/info.json	3340	2150	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/canvas/f2
 23167	23167	f2	0	1	2976	459	91	63	法	0435	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/f2/info.json	3340	2150	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/canvas/f2
 23168	23168	f2	0	2	2977	510	100	78	蓮		0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/f2/info.json	3340	2150	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/canvas/f2
@@ -811,7 +810,6 @@
 23971	23971	f4	2	5	2901	808	119	82	此	0425	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/f4/info.json	3276	2150	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/canvas/f4
 23972	23972	f4	2	6	2901	889	103	98	義	0513	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/f4/info.json	3276	2150	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/canvas/f4
 23973	23973	f4	2	7	2912	984	99	72	而	0517	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/f4/info.json	3276	2150	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/canvas/f4
-23974	23974	f4	3	8	2898	1055	123	77	所	0377	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/f4/info.json	3276	2150	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/canvas/f4
 23975	23975	f4	2	8	2897	1056	124	77	説	0564	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/f4/info.json	3276	2150	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/canvas/f4
 23976	23976	f4	2	9	2906	1133	94	85	偈	0220	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/f4/info.json	3276	2150	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/canvas/f4
 23977	23977	f4	2	10	2899	1214	108	80	言	0558	0		https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/f4/info.json	3276	2150	https://gallica.bnf.fr/iiif/ark:/12148/btv1b83019074/canvas/f4

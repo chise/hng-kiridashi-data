@@ -6,7 +6,7 @@ published on the Internet using the IIIF API corresponding to the
 source of the HNG dataset.
 
 The cropped images were generated on the Web collaboration tool "切り
-出しくん (Kiridashi-kun）" which was developed by International
+出しくん (Kiridashi-kun)" which was developed by International
 Institute for Digital Humanities.
 
 

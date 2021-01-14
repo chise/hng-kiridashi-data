@@ -5,6 +5,10 @@ information of each glyph-image extracted from some full-text images
 published on the Internet using the IIIF API corresponding to the
 source of the HNG dataset.
 
+The cropped images were generated on the Web collaboration tool "切り
+出し君 (Kiridashi-kun）" which was developed by International
+Institute for Digital Humanities.
+
 
 ## Format
 
